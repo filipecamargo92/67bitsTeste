@@ -1,0 +1,5 @@
+C:/Users/Filipe/Documents/Unity Projects/67bitsTeste/.utmp/Debug/471c2j31/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Filipe/Documents/Unity Projects/67bitsTeste/.utmp/Debug/471c2j31/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Filipe/Documents/Unity Projects/67bitsTeste/.utmp/Debug/471c2j31/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/Filipe/Documents/Unity Projects/67bitsTeste/.utmp/Debug/471c2j31/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/Filipe/Documents/Unity Projects/67bitsTeste/.utmp/Debug/471c2j31/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
